@@ -1,2 +1,2 @@
 # times-a-tickin
-A function that takes two variables (time) and tells the number of hours passed.
+A function that takes two time variable parameters and console logs the number of hours passed, if any.
